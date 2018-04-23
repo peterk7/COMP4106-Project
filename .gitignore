@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+COMP4106_Project/Logs/180422_092355_A2.log
+COMP4106_Project/Release/vc141.pdb
+COMP4106_Project/x64/
+COMP4106_Project/Logs/
+x64/
+COMP4106_Project/Debug/
+COMP4106_Project/Release/
+.vs/
